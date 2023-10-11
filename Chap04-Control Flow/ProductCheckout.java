@@ -53,3 +53,13 @@ public class ProductCheckout {
         }
     }
 }
+
+/*Enter product price (or 0 to finish: 
+500.00
+Total Price : 500.0
+VAT (15%) : 75.0
+Final Price : 575.0
+Enter amount of money paid : 
+550.00
+Outstanding Amount : 25
+*/
